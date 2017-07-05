@@ -1,0 +1,14 @@
+1.TitleRow
+2.PlateNumberArea
+3.PlateNumberUnderlineStart
+4.PlateNumberUnderlineEnd
+5.PlateNumberRow
+6.OwnerRow
+7.AddressRow
+8.UseCharactorRow
+9.VinRow
+10.EngineNumberRow
+11.RegisterDateRow
+12.StampArea
+13.LicenseArea
+14.DetectArea
