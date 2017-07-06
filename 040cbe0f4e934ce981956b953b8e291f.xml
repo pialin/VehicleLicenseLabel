@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>&#22270;&#29255;&#20219;&#21153;&#32452;_20170515_2043</folder>
+  <filename>040cbe0f4e934ce981956b953b8e291f</filename>
+  <path>E:\Desktop\&#22270;&#29255;&#20219;&#21153;&#32452;_20170515_2043\040cbe0f4e934ce981956b953b8e291f.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>0</width>
+    <height>0</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>5.PlateNumberRow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>300</ymin>
+      <xmax>899</xmax>
+      <ymax>429</ymax>
+    </bndbox>
+  </object>
+</annotation>
