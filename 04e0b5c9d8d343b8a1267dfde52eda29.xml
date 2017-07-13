@@ -23,4 +23,16 @@
       <ymax>622</ymax>
     </bndbox>
   </object>
+  <object>
+    <name>14.DetectArea</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>438</ymin>
+      <xmax>929</xmax>
+      <ymax>1101</ymax>
+    </bndbox>
+  </object>
 </annotation>
